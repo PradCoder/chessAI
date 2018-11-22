@@ -6,8 +6,10 @@ To build a fully functional AI using a ANN architecture that would facilitate th
 
 <h2>Functions</h2>
 The project has to meet two goals (as far as we can see now)
+  <ol>
   1.Play a game against a human player without any intervention
   2.Function as an expert-chess player that can create it's own moves
+  <\ol>
 
 <h2>Objectives</h2>
 This area covers the objectives that the application would have to meet
