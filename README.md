@@ -1,7 +1,7 @@
 # ChessAI
 A chess engine made using an ANN.
 
-##Problem Statement
+<h2>Problem Statement</h2>
 To build a fully functional AI using a ANN architecture that would facilitate the best learning. This project is still in the making
 
 ##Functions
