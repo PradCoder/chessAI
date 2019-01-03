@@ -36,4 +36,6 @@ This area covers the techniques, libraries, and other tools we used to accomplis
   <li>SciKit Learn</li>
   <li>Tensorflow</li>
   <li>Anaconda</li>
+  <li>Pandas</li>
+  <li>Keras</li>
   </ol>
